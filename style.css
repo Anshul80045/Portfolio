@@ -164,12 +164,13 @@
   width: 100%;
 }
 .pay-btn {
-  background: #0f9d58;   /* Google Pay green */
+  background: #0f9d58;   /* Google Pay style green */
   color: white;
-  padding: 12px 20px;
+  padding: 12px 24px;
   border: none;
   border-radius: 8px;
   font-size: 18px;
+  font-weight: bold;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -177,6 +178,7 @@
 .pay-btn:hover {
   background: #0c7a43;
 }
+
 
 .contact {
   text-align: center;
